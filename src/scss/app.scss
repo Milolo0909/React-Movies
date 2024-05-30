@@ -1,0 +1,14 @@
+@import "./libs/normalize";
+
+.container {
+  max-width: 1800px;
+  margin: 0 auto;
+}
+
+.loading {
+  width: 100vw;
+  height: calc(100vh - 85px);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
