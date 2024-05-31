@@ -4,7 +4,7 @@
 
 ## Технологии
 
-HTML, SCSS, TypeScript, React, React Router, Redux Toolkit
+React, React Router, Redux Toolkit, TypeScript, SCSS
 
 ## Пример работы
 
