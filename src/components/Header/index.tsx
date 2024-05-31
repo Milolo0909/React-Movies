@@ -7,7 +7,7 @@ import debounce from "lodash.debounce";
 
 import styles from "./Header.module.scss";
 
-import logo from "../../assets/img/logo.svg";
+import logo from "../../assets/logo.svg";
 
 const Header: React.FC = () => {
   const dispatch = useAppDispatch();
